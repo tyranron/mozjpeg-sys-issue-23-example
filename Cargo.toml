@@ -9,5 +9,5 @@ publish = false
 anyhow = "1.0"
 image = "0.23"
 mozjpeg = "0.8"
-mozjpeg-sys = "=0.10.13"
-#mozjpeg-sys = "=0.10.12"
+#mozjpeg-sys = "=0.10.13"
+mozjpeg-sys = "=0.10.12"

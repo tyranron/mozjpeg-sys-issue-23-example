@@ -280,9 +280,9 @@ dependencies = [
 
 [[package]]
 name = "mozjpeg-sys"
-version = "0.10.13"
+version = "0.10.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "798a7f921b39b07a6491c8a3c8c0cbabd5cc9826089603abdf31e6ed9121dfcc"
+checksum = "01532f6c8aebd6002cbfdc79fda873430ef7a11dddb735096a21e80262887d39"
 dependencies = [
  "cc",
  "dunce",
